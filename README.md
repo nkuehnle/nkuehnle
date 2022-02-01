@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkuehnles&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Neil's github activity graph](https://activity-graph.herokuapp.com/graph?username=nkuehnle&theme=gruvbox)](https://github.com/youtube-arjun-codes/github-readme-activity-graph)
+
+
+ <details>
+<summary>📊 Profile Visits</summary>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{nkuehnle_github_counter}/count.svg)
