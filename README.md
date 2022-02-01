@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkuehnles&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![Neil GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkuehnle&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
+[![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Neil's github activity graph](https://activity-graph.herokuapp.com/graph?username=nkuehnle&theme=gruvbox)](https://github.com/youtube-arjun-codes/github-readme-activity-graph)
-
+[![Neil'ts GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nkuehnle&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <details>
 <summary>📊 Profile Visits</summary>
