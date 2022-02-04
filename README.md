@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Neil GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkuehnle&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-[![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
+[![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Neil'ts GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nkuehnle&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
