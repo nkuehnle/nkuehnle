@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 See [my GitHub page](http://nkuehnle.github.io) for more details.
 
-<description>
+<details>
 <summary></summary>
  
 ![Visitor Count](https://profile-counter.glitch.me/{nkuehnle_github_counter}/count.svg)
