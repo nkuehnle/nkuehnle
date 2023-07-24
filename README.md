@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 See [my GitHub page](nkuehnle.github.io) for more details.
 
-<details>
+<github-stats>
 <summary</summary>
 [![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkuehnle&theme=gruvbox&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats)
 
