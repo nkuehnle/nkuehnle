@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-See [my GitHub.io page (WIP)](http://nkuehnle.github.io) for more details.
+See [my GitHub.io page (WIP)](http://nkuehnle.github.io) for more about me.
 
 <details>
 <summary></summary>
